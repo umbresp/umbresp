@@ -1,15 +1,14 @@
-## Hi there 👋
+| ![cat](cat.png) | 
+|:--:| 
+| a picture of me |
 
-**umbresp/umbresp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I’m currently working on** cloth simulation
+- 🌱 **I’m currently learning** German
+- 👯 **I’m looking to collaborate on** new music! EDM genres preferred
+- 🤔 **I’m looking for help with** reaching the can of tuna on the top shelf
+- 💬 **Ask me about** Pokemon TCG
+- 📫 **How to reach me:** [azhuang@utexas.edu](mailto:azhuang@utexas.edu)
+- 😄 **Pronouns:** she/her
+- ⚡ **Fun fact:** Smiles go for miles!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Last updated: 2025-04-30
